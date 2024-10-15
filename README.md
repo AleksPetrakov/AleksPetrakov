@@ -3,9 +3,10 @@
 <h3 align="center">Senior Frontend Developer</h3>
 
 <div align="center">
-<h3>My NPM Package: <a target="_blank" href="https://www.npmjs.com/package/react-selfie-ai-background-remover">react-selfie-ai-background-remover</a></h3>
-<h3>Read my article on Medium: <a target="_blank" href="https://medium.com/@alex.g.petrakov/introducing-ai-background-remover-with-tensorflow-js-for-react-applications-b80257a2b07c">AI Background Remover with TensorFlow.js for React</a></h3>
-<h3>My LeetCode Profile: <a target="_blank" href="https://leetcode.com/u/aleks_gp/">leetcode.com/u/aleks_gp</a></h3>
+<h3>Check out my work:</h3>
+<a href="https://www.npmjs.com/package/react-selfie-ai-background-remover" target="_blank">My NPM Package: React Selfie AI Background Remover</a> | 
+<a href="https://medium.com/@alex.g.petrakov/introducing-ai-background-remover-with-tensorflow-js-for-react-applications-b80257a2b07c" target="_blank">Read my article on Medium: AI Background Remover with TensorFlow.js for React</a> | 
+<a href="https://leetcode.com/u/aleks_gp/" target="_blank">My LeetCode Profile: leetcode.com/u/aleks_gp</a>
 </div>
 
 <div align="center">
