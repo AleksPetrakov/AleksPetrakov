@@ -39,19 +39,15 @@
 
 #### Backend:
 <div>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://static.cdnlogo.com/logos/g/23/graphql.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
   <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
 </div>
 
-#### Databases:
-<div>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://static.cdnlogo.com/logos/g/23/graphql.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-</div>
-
-#### Other:
+#### Others:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -67,7 +63,7 @@
   <a href="https://www.linkedin.com/in/agpetrakov/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:alex.g.petrakov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<!---
 ---
 
 ### 📊 GitHub Stats:
@@ -88,8 +84,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AleksPetrakov&theme=dark)](https://git.io/streak-stats)
 
----
-
-### ⚙️ Pull Requests & Issues:
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AleksPetrakov&theme=react-dark)
+!-->
