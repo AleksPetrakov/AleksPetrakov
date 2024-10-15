@@ -5,6 +5,7 @@
 <div align="center">
 <h3>My NPM Package: <a target="_blank" href="https://www.npmjs.com/package/react-selfie-ai-background-remover">react-selfie-ai-background-remover</a></h3>
 <h3>Read my article on Medium: <a target="_blank" href="https://medium.com/@alex.g.petrakov/introducing-ai-background-remover-with-tensorflow-js-for-react-applications-b80257a2b07c">AI Background Remover with TensorFlow.js for React</a></h3>
+<h3>My LeetCode Profile: <a target="_blank" href="https://leetcode.com/u/aleks_gp/">leetcode.com/u/aleks_gp</a></h3>
 </div>
 
 <div align="center">
