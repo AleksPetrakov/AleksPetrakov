@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://www.npmjs.com/package/react-selfie-ai-background-remover" target="_blank">NPM Packages</a> | 
-<a href="https://medium.com/@alex.g.petrakov/introducing-ai-background-remover-with-tensorflow-js-for-react-applications-b80257a2b07c" target="_blank">Medium Publications</a> | 
+<a href="https://medium.com/@alex.g.petrakov" target="_blank">Medium Publications</a> | 
 <a href="https://leetcode.com/u/aleks_gp/" target="_blank">LeetCode Profile</a>
 </div>
 
